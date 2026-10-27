@@ -197,10 +197,10 @@ Complete this section after all critique rounds have been conducted and the resu
 
 | Review area | Status |
 |---|---|
-| KDD methodology review | Pending |
-| Technical analysis review | Pending |
-| Documentation and reproducibility review | Pending |
-| Revisions implemented and verified | Pending |
+| KDD Methodology Review | Done |
+| Technical Analysis Review | Done |
+| Documentation & Reproducibility Review | Done |
+| Revisions Implemented & Verified | Done |
 
 ### Final Assessment
 
