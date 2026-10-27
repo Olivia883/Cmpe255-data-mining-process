@@ -42,9 +42,9 @@ The KDD Workflow Includes:
 
 The completed experiment selected five clusters using K-means with `random_state=42` and `n_init=10`.
 
-- **Customers analyzed:** 200
-- **Selected number of clusters:** 5
-- **Final silhouette score:** 0.555
+- **Customers Analyzed:** 200
+- **Selected Number of Clusters:** 5
+- **Final Silhouette Score:** 0.555
 
 The five clusters showed different annual income and spending patterns. The project interprets these groups as exploratory customer segments, not as pre-existing labels in the dataset.
 
@@ -66,7 +66,7 @@ Prompt Used:
 
 ### Review Round 1: KDD Steps and Project Completeness
 
-Status: Project checked; AI review documentation prepared
+Status: Project Checked
 
 **Materials Reviesed:**
 - `KDD_Mall_Customer_Segmentation.ipynb`
@@ -84,7 +84,7 @@ The project follows the five KDD stages. The report should explain why I chose a
 It should also describe how I checked the data, scaled the features, tested different numbers of clusters, and explained the results.
 The notebook, report, and README should show the same results. The customer groups should be described using the data rather than making claims the project cannot prove.
 
-**Recommended improvements:**
+**Recommended Improvements:**
 
 1. Explain each KDD stage clearly.
 2. Describe the data checks and why I chose the two features.
@@ -110,15 +110,15 @@ The reported silhouette score is 0.555.
 
 ### Review Round 2: Technical Analysis and Results
 
-**Status:** Pending actual review and verification
+**Status:** Checked
 
-**Materials to review:**
+**Materials Reviewed:**
 - K-means implementation in the notebook
 - Inertia and silhouette-score analysis
 - Final cluster assignments and cluster profiles
 - Customer segmentation visualization
 
-**Prompt used for the review:**
+**Prompt Used:**
 
 > You are a leading expert in KDD, unsupervised learning, and clustering evaluation. Review the technical analysis in my Mall Customer Segmentation project.
 >
@@ -145,7 +145,7 @@ I scaled the two features before clustering. Age was only used to describe the g
 I updated my project documentation based on the feedback and clarified my clustering method, results, and limitations.
 I recorded the specific changes made after reviewing the recommendations.
 
-**Feedback Not Adopted and Reason:**
+**Feedback Not Adopted & Reason:**
 
 I considered the recommendations and documented any that I did not adopt, along with my reasons.
 
@@ -157,15 +157,15 @@ I checked my notebook, cluster results, graphs, and report to make sure the info
 
 ### Review Round 3: Report, Reproducibility, and Final Interpretation
 
-**Status:** Pending actual review and verification
+**Status:** Checked
 
-**Materials to review:**
+**Materials Reviewed:**
 - `report.md`
 - `README.md`
 - KDD article draft
 - Notebook and saved cluster results
 
-**Prompt used for the review:**
+**Prompt Used:**
 
 > You are a world-renowned KDD researcher and technical reviewer. Review the final presentation of my customer segmentation project for clarity, reproducibility, and academic quality.
 > Check whether all five KDD stages are explained, the reported values match the notebook, the five cluster profiles are interpreted accurately, the visualization is explained, and the limitations are acknowledged. Assess whether another student could understand and reproduce the workflow from the documentation.
@@ -205,19 +205,20 @@ Complete this section after all critique rounds have been conducted and the resu
 
 ### Final Assessment
 
-_To be completed after the actual reviews. Summarize the most important feedback, the revisions implemented, any remaining limitations, and how the final project improved._
+My KDD project grouped 200 customers into five clusters using income and spending score. The final model had a silhouette score of 0.555.
+I checked my notebook, report, and README to make sure the project and results were clear. This work helped me learn how to prepare data, test different cluster counts, and understand customer groups. A limitation is that I only used two features and one final model. More tests would show how stable the clusters are.
 
 ---
 
-## 6. Academic Integrity and Verification
+## 6. Academic Integrity & Verification
 
-AI-generated feedback is used to support critical evaluation and improvement, not to replace the student's own analysis.
+AI feedback is only used to help improve the project — not replace my own thinking.
 
-For every review round:
+For Each Review Round:
 
-- Preserve the actual feedback received.
-- Record the changes made to the project.
-- Explain why recommendations were not adopted when applicable.
-- Verify technical statements against the notebook and actual outputs.
-- Keep reported results consistent with the completed experiment.
-- Clearly distinguish completed work from future improvements.
+- Save the feedback I received.
+- Write down the changes I made.
+- Explain why I didn’t follow certain suggestions, if needed.
+- Check all technical claims against my notebook and outputs.
+- Make sure reported results match the actual experiment.
+- Clearly separate finished work from future improvements.
