@@ -159,7 +159,7 @@ The SEMMA project analysis and documentation have been completed. The AI critiqu
 | SEMMA Project Workflow | Completed |
 | Model Training & Evaluation | Completed |
 | Project Documentation | Completed |
-| AI Critique Rounds | Pending Review |
+| AI Critique Rounds | Completed |
 | Revisions From AI Feedback | Completed |
 | YouTube Walkthrough | Pending |
 
