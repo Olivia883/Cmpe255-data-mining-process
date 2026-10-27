@@ -124,7 +124,8 @@ I checked the notebook, report, and README for consistency with the completed pr
 >
 > My recorded final silhouette score is 0.555 for five clusters across 200 customers. Assess whether the conclusions are justified by the evidence, identify limitations, and recommend technically appropriate improvements. Do not make up results or claim that additional experiments were performed. Explain which recommendations require new code or experiments.
 
-**Proposed AI Feedback**
+**Proposed AI Feedback:**
+
 The project grouped 200 customers using their annual income and spending scores. I tested 2–10 clusters and chose five based on the graphs and scores.
 The final score was 0.555, meaning the groups were reasonably separated, but five clusters may not be the best choice for every dataset.
 I scaled the two features before clustering. Age was only used to describe the groups, not create them. The report should explain the results clearly and avoid claims that the data cannot prove.
