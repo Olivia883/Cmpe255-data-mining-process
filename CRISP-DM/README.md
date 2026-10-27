@@ -9,7 +9,7 @@ This project applies the Cross-Industry Standard Process for Data Mining (CRISP-
 The work follows all six CRISP-DM phases: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment.
 
 ## Research Question
-Can a lightweight TF-IDF retrieval baseline retrieve relevant pages from long documents to support document question answering?
+Can we group customers into useful clusters using their income and spending score?
 
 ## Dataset
 [MMLongBench-Doc — Hugging Face](https://huggingface.co/datasets/yubo2333/MMLongBench-Doc)
@@ -35,12 +35,12 @@ The loaded dataset contained 1,091 question records across seven fields. The ass
 The TF-IDF baseline was evaluated on a five-question pilot sample.
 
 Among the four questions with annotated evidence pages:
-- **Exact evidence-page hits:** 2 out of 4 (50%).
-- **Adjacent-page hits:** 3 out of 4 (75%) under the project's current evaluation procedure.
+- **Exact Evidence-page Hits:** 2 out of 4 (50%).
+- **Adjacent-page Hits:** 3 out of 4 (75%) under the project's current evaluation procedure.
 
-Manual review found that the monitor-manual question retrieved a passage directly supporting the reference answer. Other cases showed that retrieving the correct PDF does not necessarily mean the displayed excerpt contains enough evidence to answer the question.
+Manual review found that the monitor-manual question retrieved a passage directly supporting the reference answer. Other cases showed that retrieving the correct PDF doesn't entirely mean the displayed excerpt contains enough evidence to answer the question.
 
-These results are preliminary. Evidence-page numbering conventions must be standardized and verified before the hit rates are treated as definitive.
+These results are only early findings. The page‑numbering rules must me fixed and confirmed before treating the hit rates as final.
 
 **Important:** The complete RAG-Anything pipeline was not evaluated. These results describe the TF-IDF baseline only and must not be interpreted as performance results for RAG-Anything.
 
@@ -52,8 +52,6 @@ These results are preliminary. Evidence-page numbering conventions must be stand
 - `crisp_dm_pilot_sample.csv` — Selected pilot sample.
 - `crisp_dm_tfidf_retrieval_results.csv` — TF-IDF retrieval results.
 - `crisp_dm_phase5_manual_review.csv` — Manual-review records; ensure this is the completed version, not the original blank template.
-
-Filenames above should match the files actually present in this folder.
 
 ## AI Critique and Revision
 
@@ -74,7 +72,7 @@ The assignment requires multiple rounds of AI critique and revision. The project
 ## Publication Deliverables
 
 - **Medium Article:** https://medium.com/@olhunter03/crisp-dm-medium-article-38409762ee81
-- **YouTube Walkthrough:** Pending recording and upload.
+- **YouTube Walkthrough:** Pending
 
 ## Conclusion
 
