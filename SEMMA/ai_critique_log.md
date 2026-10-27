@@ -125,9 +125,7 @@ The recorded results show that both models correctly classified 28 of 30 test sa
 
 **Proposed AI Feedback:**
 
-The project should clearly explain the steps from loading the dataset to evaluating the two models. The reported 93.33% accuracy for each model should match the notebook.
-The report should explain that the experiment used an 80/20 train/test split and only 30 test samples. It should also clarify that the dataset was loaded through scikit-learn and that the Kaggle page was used as a reference.
-The article and YouTube walkthrough should only be marked as published after they are actually available online.
+The project should clearly explain the steps from loading the dataset to evaluating the two models. The reported 93.33% accuracy for each model should match the notebook. The report should explain that the experiment used an 80/20 train/test split and only 30 test samples. It should also clarify that the dataset was loaded through scikit-learn and that the Kaggle page was used as a reference. The article and YouTube walkthrough should only be marked as published after they are actually available online.
 
 **Recommended Improvements:**
 
@@ -138,7 +136,7 @@ The article and YouTube walkthrough should only be marked as published after the
 
 **Changes Made in Response:**
 
-The project includes a notebook, report, and README describing the dataset, SEMMA stages, models, results, and limitations. The dataset-loading method is documented transparently.
+The project includes a notebook, report, and README describing the dataset, SEMMA stages, models, results, and limitations. The dataset-loading method is documented honestly.
 
 **Feedback Not Adopted and Reason:**
 
@@ -168,7 +166,7 @@ The SEMMA project analysis and documentation have been completed. The AI critiqu
 This project applied the five SEMMA stages to the Iris classification task. I explored and prepared the dataset, trained KNN and Decision Tree models, and evaluated their performance.
 Both models achieved 93.33% test accuracy, correctly predicting 28 out of 30 test samples. The project helped me understand the SEMMA workflow and compare two classification methods.
 One limitation is that the evaluation used a single train/test split with only 30 test samples. The results may differ with another split.
-The notebook, report, and README document the project. The remaining work is to complete and document the AI critique-and-revision process and publish the YouTube walkthrough.
+The notebook, report, and README document the project.
 
 ## 6. Academic Integrity and Verification
 
