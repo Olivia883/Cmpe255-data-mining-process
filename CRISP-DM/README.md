@@ -21,7 +21,7 @@ Investigate document retrieval for question answering using the MMLongBench-Doc 
 The TF-IDF baseline has been implemented and evaluated on five questions. Manual evidence review and documentation are in progress. The full RAG-Anything pipeline has not yet been evaluated.
 
 ## Planned Files
-- `CRISP_DM_RAG_Anything.ipynb` — Google Colab notebook
+- `[CRISP_DM_RAG_Anything.ipynb](https://colab.research.google.com/drive/1OxZDkhAXqWdKvOs6o34aEoFOU8Zze4r0)` — Google Colab notebook
 - `report.md` — Project report
 - `results/` — Experiment results and review files
 - `critique-revisions/` — Documented AI critiques and revisions
