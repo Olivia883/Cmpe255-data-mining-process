@@ -11,9 +11,9 @@ The project compares **K-Nearest Neighbors (KNN)** and a **Decision Tree** class
 - **Dataset:** Iris dataset
 - **Kaggle reference:** https://www.kaggle.com/datasets/uciml/iris
 - **Data loading method:** The dataset was loaded using `load_iris(as_frame=True)` from scikit-learn. The Kaggle page is provided as a dataset reference; the Kaggle CSV was not directly downloaded for this experiment.
-- **Number of records:** 150
-- **Number of columns:** 5
-- **Target variable:** Iris species
+- **Number of Records:** 150
+- **Number of Columns:** 5
+- **Target Variable:** Iris species
 - **Classes:** Setosa, Versicolor, and Virginica
 
 ## Methodology: SEMMA
@@ -24,9 +24,9 @@ Loaded the Iris dataset and examined its structure. The dataset contains 150 obs
 
 The data was divided into training and testing sets using an 80/20 split, with stratification to preserve the class proportions.
 
-- Training records: 120
-- Testing records: 30
-- Random state: 42
+- Training Records: 120
+- Testing Records: 30
+- Random State: 42
 
 ### 2. Explore
 
@@ -65,10 +65,10 @@ The results show that both models performed well on this test split. However, th
 
 ## Project Files
 
-- **Google Colab notebook:** [`SEMMA_Iris_Classification.ipynb`](SEMMA_Iris_Classification.ipynb)
-- **Project report:** [`report.md`](report.md)
-- **Article draft PDF:** See the SEMMA folder for the PDF version of the Medium article draft.
-- **Dataset reference:** https://www.kaggle.com/datasets/uciml/iris
+- **Google Colab Notebook:** [`SEMMA_Iris_Classification.ipynb`](SEMMA_Iris_Classification.ipynb)
+- **Project Report:** [`report.md`](report.md)
+- **Article Draft PDF:** See the SEMMA folder for the PDF version of the Medium article draft.
+- **Dataset Reference:** https://www.kaggle.com/datasets/uciml/iris
 
 ## AI Critique and Revision
 
@@ -82,12 +82,12 @@ The review record should include:
 - The changes made in response.
 - Any feedback that was not adopted and the reason.
 
-**Status:** Add links to the completed critique-and-revision records after the review rounds have been conducted and documented.
+**Status:** Add links to the completed critique-and-revision records after the review rounds have been made and documented.
 
 ## Publication Deliverables
 
 - **Medium Article:** https://medium.com/@olhunter03/semma-medium-article-fbbe7d232428?sharedUserId=olhunter03
-- **YouTube walkthrough:** Record and publish a detailed walkthrough of the notebook, SEMMA stages, model training, evaluation results, and limitations.
+- **YouTube Walkthrough:** Pending
 
 ## Limitations
 
