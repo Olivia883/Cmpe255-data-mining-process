@@ -86,8 +86,8 @@ The review record should include:
 
 ## Publication Deliverables
 
-- **Medium article:** Draft prepared; publication link to be added after the article is published.
-- **YouTube walkthrough:** Record and publish a detailed walkthrough of the notebook, SEMMA stages, model training, evaluation results, and limitations. Add the video link after publication.
+- **Medium Article:** https://medium.com/@olhunter03/semma-medium-article-fbbe7d232428?sharedUserId=olhunter03
+- **YouTube walkthrough:** Record and publish a detailed walkthrough of the notebook, SEMMA stages, model training, evaluation results, and limitations.
 
 ## Limitations
 
