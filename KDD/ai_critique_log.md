@@ -75,8 +75,7 @@ Status: Project Checked
 
 **Prompt Used:**
 
-You are an expert in the KDD process and data mining. Review my customer segmentation project and its five stages: Selection, Preprocessing, Transformation, Data Mining, and Interpretation/Evaluation.
-Identify missing steps, unclear explanations, and mistakes. Check whether my notebook and report match the work I completed. Do not make up results. Suggest the most important improvements.
+You are an expert in the KDD process and data mining. Review my customer segmentation project and its five stages: Selection, Preprocessing, Transformation, Data Mining, and Interpretation/Evaluation. Identify missing steps, unclear explanations, and mistakes. Check whether my notebook and report match the work I completed. Do not make up results. Suggest the most important improvements.
 
 **Proposed AI Feedback**
 
@@ -99,12 +98,11 @@ The documentation includes the selected features, data checks, clustering proces
 
 **Feedback Not Adopted & Reason:**
 
-No recommendations were rejected during my project check. Any future recommendations that I do not follow will be explained here.
+No recommendations were rejected during my project check.
 
 **Verification:**
 
-I checked the notebook, report, and README for consistency with the completed project. The project uses 200 customers, annual income and spending score as the clustering features, and five clusters.
-The reported silhouette score is 0.555.
+I checked the notebook, report, and README for consistency with the completed project. The project uses 200 customers, annual income and spending score as the clustering features, and five clusters. The reported silhouette score is 0.555.
 
 ---
 
@@ -124,7 +122,7 @@ The reported silhouette score is 0.555.
 >
 > Examine my choice of annual income and spending score, feature standardization, evaluation of k from 2 to 10, selection of k=5, use of the silhouette score, final K-means configuration, cluster profiles, and scatter plot.
 >
-> My recorded final silhouette score is 0.555 for five clusters across 200 customers. Assess whether the conclusions are justified by the evidence, identify limitations, and recommend technically appropriate improvements. Do not fabricate results or claim that additional experiments were performed. Explain which recommendations require new code or experiments.
+> My recorded final silhouette score is 0.555 for five clusters across 200 customers. Assess whether the conclusions are justified by the evidence, identify limitations, and recommend technically appropriate improvements. Do not make up results or claim that additional experiments were performed. Explain which recommendations require new code or experiments.
 
 **Proposed AI Feedback**
 The project grouped 200 customers using their annual income and spending scores. I tested 2–10 clusters and chose five based on the graphs and scores.
