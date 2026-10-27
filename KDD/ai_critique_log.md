@@ -195,7 +195,7 @@ The model uses random_state=42 and n_init=10. I have compared my notebook, repor
 
 Complete this section after all critique rounds have been conducted and the resulting changes have been checked.
 
-| Review area | Status |
+| Review Area | Status |
 |---|---|
 | KDD Methodology Review | Done |
 | Technical Analysis Review | Done |
