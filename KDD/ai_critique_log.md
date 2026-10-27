@@ -201,11 +201,11 @@ Complete this section after all critique rounds have been conducted and the resu
 | Technical Analysis Review | Done |
 | Documentation & Reproducibility Review | Done |
 | Revisions Implemented & Verified | Done |
+| Youtube Walkthrough | Pending |
 
 ### Final Assessment
 
-My KDD project grouped 200 customers into five clusters using income and spending score. The final model had a silhouette score of 0.555.
-I checked my notebook, report, and README to make sure the project and results were clear. This work helped me learn how to prepare data, test different cluster counts, and understand customer groups. A limitation is that I only used two features and one final model. More tests would show how stable the clusters are.
+My KDD project grouped 200 customers into five clusters using income and spending score. The final model had a silhouette score of 0.555. I checked my notebook, report, and README to make sure the project and results were clear. This work helped me learn how to prepare data, test different cluster counts, and understand customer groups. A limitation is that I only used two features and one final model. More tests would show how stable the clusters are.
 
 ---
 
