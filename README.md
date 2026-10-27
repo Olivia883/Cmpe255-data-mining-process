@@ -63,7 +63,7 @@ Objective: Identify customer groups based on annual income and spending score.
 
 Results: The final model used five clusters and achieved a silhouette score of 0.555 across 200 customer records. The cluster profiles and visualization show groups with different income and spending patterns.
 
-Methodology stages:
+Methodology Stages:
 
 - Selection
 
@@ -81,15 +81,15 @@ AI-Assisted Critique and Revision
 
 The assignment requires multiple rounds of AI critique and revision for each methodology. The project-specific critique records should document:
 
-- The section or phase reviewed
+- The Section or Phase Reviewed
 
-- Critique feedback
+- Critique Feedback
 
-- Changes made in response
+- Changes Made in Response
 
-- Manual code and result verification
+- Manual Code and Result Verification
 
-- Remaining limitations after revision
+- Remaining Limitations After Revision
 
 The critique process should be documented using the actual reviews and revisions performed, rather than assumed or reconstructed as completed.
 
@@ -105,13 +105,13 @@ Project Artifacts
 
 - Three methodology-specific notebooks
 
-- Three project reports
+- Three Project Reports
 
-- Three PDF article drafts
+- Three PDF Article Drafts
 
-- Dataset source links and relevant supporting files
+- Dataset Source Links and Relevant Supporting Files
 
-- Experiment outputs and evaluation results
+- Experiment Outputs and Evaluation Results
 
 Publication Deliverables
 
