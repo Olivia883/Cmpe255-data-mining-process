@@ -89,8 +89,8 @@ The results should be treated as exploratory findings rather than proof that a p
 
 ## Publication Deliverables
 
-- **Medium article:** Pending publication.
-- **YouTube walkthrough:** Pending recording and upload.
+- **Medium Article:** https://medium.com/@olhunter03/kdd-medium-article-f1e099533d85?sharedUserId=olhunter03
+- **YouTube walkthrough:** Pending
 
 Add the public URLs here after publication.
 
