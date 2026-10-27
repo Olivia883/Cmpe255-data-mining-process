@@ -4,7 +4,7 @@
 
 This repository contains my CMPE 255 Data Mining Process assignment. The goal is to apply three established data mining methodologies to separate datasets, document each phase, evaluate the results, and present the findings.
 
-The three methodologies are:
+The Three Methodologies Are:
 
 1. **CRISP-DM** — Cross-Industry Standard Process for Data Mining
 2. **SEMMA** — Sample, Explore, Modify, Model, Assess
@@ -26,11 +26,11 @@ Each project will include a Google Colab notebook, methodology-specific analysis
 
 **Dataset:** [MMLongBench-Doc on Hugging Face](https://huggingface.co/datasets/yubo2333/MMLongBench-Doc)
 
-**Original objective:** Evaluate the RAG-Anything multimodal retrieval-augmented generation framework for document question answering.
+**Original Objective:** Evaluate the RAG-Anything multimodal retrieval-augmented generation framework for document question answering.
 
-**Current experiment:** A TF-IDF document retrieval baseline has been implemented and evaluated on five questions. The full RAG-Anything pipeline has not yet been evaluated.
+**Current Experiment:** A TF-IDF document retrieval baseline has been implemented and evaluated on five questions. The full RAG-Anything pipeline has not yet been evaluated.
 
-**Methodology phases:**
+**Methodology Phases:**
 - Business Understanding
 - Data Understanding
 - Data Preparation
@@ -65,15 +65,15 @@ Results: The final model used five clusters and achieved a silhouette score of 0
 
 Methodology stages:
 
-Selection
+- Selection
 
-Preprocessing
+- Preprocessing
 
-Transformation
+- Transformation
 
-Data Mining
+- Data Mining
 
-Interpretation and Evaluation
+- Interpretation and Evaluation
 
 See the KDD folder for the notebook, report, PDF article, clustered CSV, and supporting project files.
 
@@ -81,15 +81,15 @@ AI-Assisted Critique and Revision
 
 The assignment requires multiple rounds of AI critique and revision for each methodology. The project-specific critique records should document:
 
-The section or phase reviewed
+- The section or phase reviewed
 
-Critique feedback
+- Critique feedback
 
-Changes made in response
+- Changes made in response
 
-Manual code and result verification
+- Manual code and result verification
 
-Remaining limitations after revision
+- Remaining limitations after revision
 
 The critique process should be documented using the actual reviews and revisions performed, rather than assumed or reconstructed as completed.
 
@@ -101,32 +101,32 @@ Results should be interpreted within each project's scope and limitations. In pa
 
 Final Deliverables
 
-Project artifacts
+Project Artifacts
 
-Three methodology-specific notebooks
+- Three methodology-specific notebooks
 
-Three project reports
+- Three project reports
 
-Three PDF article drafts
+- Three PDF article drafts
 
-Dataset source links and relevant supporting files
+- Dataset source links and relevant supporting files
 
-Experiment outputs and evaluation results
+- Experiment outputs and evaluation results
 
 Publication Deliverables
 
-CRISP-DM Medium article and YouTube walkthrough
+- CRISP-DM Medium article and YouTube walkthrough
 
-SEMMA Medium article and YouTube walkthrough
+- SEMMA Medium article and YouTube walkthrough
 
-KDD Medium article and YouTube walkthrough
+- KDD Medium article and YouTube walkthrough
 
 Publication links should be added here and to the corresponding project README files once the articles and videos are published.
 
-Review documentation
+Review Documentation
 
-AI critique-and-revision records for CRISP-DM
+- AI critique-and-revision records for CRISP-DM
 
-AI critique-and-revision records for SEMMA
+- AI critique-and-revision records for SEMMA
 
-AI critique-and-revision records for KDD
+- AI critique-and-revision records for KDD
