@@ -38,6 +38,8 @@ Each project will include a Google Colab notebook, methodology-specific analysis
 - Evaluation
 - Deployment
 
+See the CRISP-DM folder for the notebook, report, PDF article, and supporting experiment files.
+
 ## Project 2: SEMMA
 
 This project will use a dataset different from those used in the other two projects.
@@ -49,37 +51,82 @@ The analysis will follow the five SEMMA stages:
 - Model
 - Assess
 
-The dataset, experiment, evaluation, and findings will be documented in the project folder.
+See the SEMMA folder for the notebook, report, PDF article, and supporting project files.
 
 ## Project 3: KDD
 
-This project will use a third, different dataset.
+Topic: Mall customer segmentation using K-means clustering.
 
-The analysis will follow the KDD process:
-- Selection
-- Preprocessing
-- Transformation
-- Data Mining
-- Interpretation and Evaluation
+Dataset: Mall Customer Segmentation Data on Kaggle
 
-The notebook, experiment, evaluation, and findings will be documented in the project folder.
+Objective: Identify customer groups based on annual income and spending score.
 
-## AI-Assisted Critique and Revision
+Results: The final model used five clusters and achieved a silhouette score of 0.555 across 200 customer records. The cluster profiles and visualization show groups with different income and spending patterns.
 
-Each project will include documented AI-assisted reviews and revisions. The records will include the original section, critique, revised version, and an explanation of the changes made.
+Methodology stages:
 
-## Reproducibility
+Selection
 
-Project notebooks will document the data sources, relevant preprocessing steps, code, evaluation methods, results, and limitations. Dataset links and usage restrictions will be recorded where applicable.
+Preprocessing
 
-## Final Deliverables
+Transformation
 
-The repository will be updated with the following materials as they are completed:
+Data Mining
 
-- Three methodology-specific Google Colab notebooks
-- Three project reports
-- Dataset source links and appropriate supporting files
-- Experiment outputs and evaluation results
-- AI critique-and-revision records
-- A Medium article for each project
-- A YouTube walkthrough for each project
+Interpretation and Evaluation
+
+See the KDD folder for the notebook, report, PDF article, clustered CSV, and supporting project files.
+
+AI-Assisted Critique and Revision
+
+The assignment requires multiple rounds of AI critique and revision for each methodology. The project-specific critique records should document:
+
+The section or phase reviewed
+
+Critique feedback
+
+Changes made in response
+
+Manual code and result verification
+
+Remaining limitations after revision
+
+The critique process should be documented using the actual reviews and revisions performed, rather than assumed or reconstructed as completed.
+
+Reproducibility
+
+The project notebooks document the data sources, preprocessing, analysis, model configuration, evaluation methods, results, and limitations. Supporting files are included where appropriate.
+
+Results should be interpreted within each project's scope and limitations. In particular, the CRISP-DM project evaluates a TF-IDF retrieval baseline rather than the full RAG-Anything pipeline.
+
+Final Deliverables
+
+Project artifacts
+
+Three methodology-specific notebooks
+
+Three project reports
+
+Three PDF article drafts
+
+Dataset source links and relevant supporting files
+
+Experiment outputs and evaluation results
+
+Publication Deliverables
+
+CRISP-DM Medium article and YouTube walkthrough
+
+SEMMA Medium article and YouTube walkthrough
+
+KDD Medium article and YouTube walkthrough
+
+Publication links should be added here and to the corresponding project README files once the articles and videos are published.
+
+Review documentation
+
+AI critique-and-revision records for CRISP-DM
+
+AI critique-and-revision records for SEMMA
+
+AI critique-and-revision records for KDD
