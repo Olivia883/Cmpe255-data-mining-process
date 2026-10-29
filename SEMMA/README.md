@@ -87,7 +87,7 @@ The review record should include:
 ## Publication Deliverables
 
 - **Medium Article:** https://medium.com/@olhunter03/semma-medium-article-fbbe7d232428?sharedUserId=olhunter03
-- **YouTube Walkthrough:** Pending
+- **YouTube Walkthrough:** https://youtu.be/xIW4O0plLTU
 
 ## Limitations
 
