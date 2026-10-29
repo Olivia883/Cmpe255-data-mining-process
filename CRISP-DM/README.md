@@ -72,7 +72,7 @@ The assignment requires multiple rounds of AI critique and revision. The project
 ## Publication Deliverables
 
 - **Medium Article:** https://medium.com/@olhunter03/crisp-dm-medium-article-38409762ee81
-- **YouTube Walkthrough:** Pending
+- **YouTube Walkthrough:** https://youtu.be/hDAnit8Q7bQ
 
 ## Conclusion
 
